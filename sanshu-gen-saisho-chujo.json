@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gen-saisho-chujo",
  "yomi": "げんさいしょうのちゅうじょうけわかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（恋題）",
+  "era": "康和2年（1100）4月",
+  "author": "主催 源国信",
+  "desc": "宰相中将源国信の家の歌合。初恋・会恋・夜恋・経年恋など恋の題を、国信・藤原仲実・藤原顕仲らが詠む。後に別の歌合の断簡が続く。"
+ },
  "editions": [
   {
    "pid": "1128193",
